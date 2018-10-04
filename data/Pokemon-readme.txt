@@ -22,7 +22,7 @@ abilities: A stringified list of abilities that the Pokemon is capable of having
 experience_growth: The Experience Growth of the Pokemon
 base_happiness: Base Happiness of the Pokemon
 against_?: Eighteen features that denote the amount of damage taken against an attack of a particular type
-hp: The Base HP (hot points) of the Pokemon; damage to pokemon subtracts HPs
+hp: The Base HP (hit points) of the Pokemon; damage to pokemon subtracts HPs
 attack: The Base Attack of the Pokemon
 defense: The Base Defense of the Pokemon
 sp_attack: The Base Special Attack of the Pokemon
